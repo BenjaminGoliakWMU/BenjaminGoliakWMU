@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my school github account
+I think I have a personal one and I will link it if I ever use it
+Im new to this
+
+I like to sail and chill!
+
 <!--
 **BenjaminGoliakWMU/BenjaminGoliakWMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
